@@ -1,0 +1,1 @@
+export const GATEWAY_BASE_URL = 'http://gatewayvf.webservices.ftv-local.fr/v1';
